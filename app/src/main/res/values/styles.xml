@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KimiApi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#D32F2F</item>
+        <item name="colorPrimaryVariant">#B71C1C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#1A1A2E</item>
+        <item name="colorSecondaryVariant">#0F3460</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#B71C1C</item>
+        <item name="android:navigationBarColor">#1A1A2E</item>
+        <item name="android:windowBackground">#F5F5F5</item>
+    </style>
+</resources>
